@@ -6,5 +6,11 @@ First create a **standard** link tag with your phone number inside of **href** a
 like this...
 
 ```
-<a href="+912959292702"></a>
+<a href="+91-2959292702"></a>
 ```
+###### *Don't forget to add +country code then number*
+
+
+Now to make it work,just addd **tel**: before the number
+
+like this..
